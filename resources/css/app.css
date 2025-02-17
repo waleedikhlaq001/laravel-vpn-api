@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+   /* Buttons */
+   .btn-primary {
+      @apply text-white bg-blue-500 hover:bg-blue-600 rounded px-4 py-1.5 dark:bg-blue-500 dark:hover:bg-blue-600 border-blue-500 dark:border-blue-500 cursor-pointer
+   }
+
+   .btn-secondary {
+      @apply text-gray-950 hover:text-white border border-gray-800 hover:bg-gray-900 rounded px-4 py-1.5 text-center dark:border-gray-600 dark:text-gray-200 dark:hover:text-white dark:hover:bg-gray-600 cursor-pointer
+   }
+
+   .btn-link {
+      @apply text-blue-500 hover:text-blue-800
+   }
+
+   /* Inputs */
+   input[type=text], input[type=email], input[type=search], input[type=password], input[type=number], input[type=tel], textarea {
+      @apply bg-gray-50 border border-gray-300 text-gray-900 rounded focus:ring-blue-500 focus:border-blue-500 block w-full p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500
+   }
+
+   select {
+      @apply border rounded border-gray-300 text-gray-900 bg-gray-50 dark:bg-gray-700 dark:text-gray-300 py-1.5 dark:border-gray-600
+   }
+
+   .form-group {
+      @apply bg-gray-50 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded p-3
+   }
+
+   input[type=checkbox] {
+      @apply w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-0 dark:bg-gray-700 dark:border-gray-600
+   }
+
+   input[type=radio] {
+      @apply w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-0 dark:bg-gray-700 dark:border-gray-600 
+   }
+
+   /* Headings */
+   h1 {
+      @apply text-2xl md:text-2xl mb-4
+   }
+
+   h2 {
+      @apply text-lg md:text-xl mb-4
+   }
+
+   /* Table */
+   .big-table {
+      @apply w-full text-sm text-left text-gray-500 dark:text-gray-400 border dark:border-gray-700
+   }
+   .big-table th {
+      @apply px-4 py-3 text-xs text-gray-700 uppercase bg-gray-100 dark:bg-gray-700 dark:text-gray-400 font-normal
+   }
+   .big-table td {
+      @apply px-4 py-3
+   }
+   .big-table tbody tr {
+      @apply bg-white border-b dark:bg-gray-800 dark:border-gray-700
+   }
+
+
+   /* Remove autofill color on some browsers */
+   input:-webkit-autofill,
+   input:-webkit-autofill:focus {
+     transition: background-color 0s 600000s, color 0s 600000s;
+   }
+
+}

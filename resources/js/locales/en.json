@@ -1,0 +1,52 @@
+{
+  "login": {
+    "registerNewAccount": "Register for a new account",
+    "recoverPassword": "Recover my password",
+    "recover": {
+      "hint": "In case your e-mail is known in our database, you will receive an e-mail to reset your password.",
+      "recover": "Recover password"
+    },
+    "reset": {
+      "reset": "Reset my password",
+      "passwordConfirm": "Confirm password"
+    }
+  },
+  "site": {
+    "description": "Case Law Notes for Prosecutors"
+  },
+  "theme": {
+    "light": "Light Theme",
+    "dark": "Dark Theme"
+  },
+  "form": {
+    "errors": "Form has errors. Please fix them before submitting.",
+    "optionalField": "(optional)"
+  },
+  "common": {
+    "email": "E-mail",
+    "password": "Password",
+    "passwordConfirm": "Confirm Password",
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "phone": "Phone Nuber",
+    "jobTitle": "Job Title",
+    "payMyself": "Pay myself",
+    "payByGroup": "Paid by group",
+    "motivation": "Motivation",
+    "selectGroup": "Select your group",
+    "group": "Group",
+    "description": "Description",
+    "login": "Login",
+    "billingMode": "Payment Method"
+  },
+  "register": {
+    "motivationHint": "Please describe your reasons for joining. This will be used to validate or reject your application.",
+    "nextSteps": "Next Steps",
+    "acceptConditions": "I accept the terms and conditions",
+    "submit": "Send my account request",
+    "profile": "Profile",
+    "step1": "You will receive a confirmation e-mail.",
+    "step2": "Once your e-mail has been confirmed, your request will be sent for validation to the administrators or the group managers in charge of your subscription.",
+    "step3": "An e-mail will be sent to you as soon as your account has been confirmed."
+  }
+}

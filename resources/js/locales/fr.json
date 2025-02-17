@@ -1,0 +1,52 @@
+{
+  "login": {
+    "registerNewAccount": "S'inscrire à un nouveau compte",
+    "recoverPassword": "Récupérer mon mot de passe",
+    "recover": {
+      "hint": "Si votre e-mail est connu dans notre base de données, vous recevrez un e-mail pour réinitialiser votre mot de passe.",
+      "recover": "Récupérer le mot de passe"
+    },
+    "reset": {
+      "reset": "Réinitialiser mon mot de passe",
+      "passwordConfirm": "Confirmer le mot de passe"
+    }
+  },
+  "site": {
+    "description": "Notes de jurisprudence pour les procureurs"
+  },
+  "theme": {
+    "light": "Thème lumineux",
+    "dark": "Thème sombre"
+  },
+  "form": {
+    "errors": "Le formulaire contient des erreurs. Veuillez les corriger avant de le soumettre.",
+    "optionalField": "(facultatif)"
+  },
+  "common": {
+    "email": "Courrier électronique",
+    "password": "Mot de passe",
+    "passwordConfirm": "Confirmer le mot de passe",
+    "firstname": "Prénom",
+    "lastname": "Nom de famille",
+    "phone": "Téléphone Nuber",
+    "jobTitle": "Titre du poste",
+    "payMyself": "Se payer soi-même",
+    "payByGroup": "Payé par le groupe",
+    "motivation": "Motivation",
+    "selectGroup": "Sélectionnez votre groupe",
+    "group": "Groupe",
+    "description": "Description",
+    "login": "Connexion",
+    "billingMode": "Mode de paiement"
+  },
+  "register": {
+    "motivationHint": "Veuillez décrire les raisons qui vous poussent à adhérer. Cela permettra de valider ou de rejeter votre candidature.",
+    "nextSteps": "Prochaines étapes",
+    "acceptConditions": "J'accepte les termes et conditions",
+    "submit": "Envoyer ma demande de compte",
+    "profile": "Profil",
+    "step1": "Vous recevrez un e-mail de confirmation.",
+    "step2": "Une fois votre e-mail confirmé, votre demande sera envoyée pour validation aux administrateurs ou aux gestionnaires de groupe en charge de votre abonnement.",
+    "step3": "Un e-mail vous sera envoyé dès que votre compte aura été confirmé."
+  }
+}

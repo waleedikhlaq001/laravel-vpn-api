@@ -1,0 +1,52 @@
+{
+  "login": {
+    "registerNewAccount": "Si registri per un nuovo account",
+    "recoverPassword": "Recuperare la mia password",
+    "recover": {
+      "hint": "Nel caso in cui la sua e-mail sia nota nel nostro database, riceverà un'e-mail per reimpostare la password.",
+      "recover": "Recuperare la password"
+    },
+    "reset": {
+      "reset": "Reimpostare la mia password",
+      "passwordConfirm": "Confermare la password"
+    }
+  },
+  "site": {
+    "description": "Note di giurisprudenza per i procuratori"
+  },
+  "theme": {
+    "light": "Tema luminoso",
+    "dark": "Tema scuro"
+  },
+  "form": {
+    "errors": "Il modulo presenta degli errori. La preghiamo di correggerli prima di inviarlo.",
+    "optionalField": "(opzionale)"
+  },
+  "common": {
+    "email": "E-mail",
+    "password": "Password",
+    "passwordConfirm": "Confermare la password",
+    "firstname": "Nome",
+    "lastname": "Cognome",
+    "phone": "Telefono Nuber",
+    "jobTitle": "Titolo del lavoro",
+    "payMyself": "Pagare me stesso",
+    "payByGroup": "Pagato dal gruppo",
+    "motivation": "Motivazione",
+    "selectGroup": "Selezioni il suo gruppo",
+    "group": "Gruppo",
+    "description": "Descrizione",
+    "login": "Accesso",
+    "billingMode": "Metodo di pagamento"
+  },
+  "register": {
+    "motivationHint": "La preghiamo di descrivere le ragioni della sua adesione. Questo verrà utilizzato per convalidare o rifiutare la sua candidatura.",
+    "nextSteps": "I prossimi passi",
+    "acceptConditions": "Accetto i termini e le condizioni",
+    "submit": "Inviare la richiesta del mio account",
+    "profile": "Profilo",
+    "step1": "Riceverà un'e-mail di conferma.",
+    "step2": "Una volta confermata la sua e-mail, la sua richiesta sarà inviata per la convalida agli amministratori o ai responsabili dei gruppi che si occupano del suo abbonamento.",
+    "step3": "Le verrà inviata un'e-mail non appena il suo account sarà stato confermato."
+  }
+}

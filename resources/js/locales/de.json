@@ -1,0 +1,52 @@
+{
+  "login": {
+    "registerNewAccount": "Registrieren Sie sich für ein neues Konto",
+    "recoverPassword": "Mein Passwort wiederherstellen",
+    "recover": {
+      "hint": "Falls Ihre E-Mail in unserer Datenbank bekannt ist, erhalten Sie eine E-Mail, um Ihr Passwort zurückzusetzen.",
+      "recover": "Passwort wiederherstellen"
+    },
+    "reset": {
+      "reset": "Mein Passwort zurücksetzen",
+      "passwordConfirm": "Bestätigen Sie das Passwort"
+    }
+  },
+  "site": {
+    "description": "Rechtsprechungshinweise für Staatsanwälte"
+  },
+  "theme": {
+    "light": "Licht-Thema",
+    "dark": "Dunkles Thema"
+  },
+  "form": {
+    "errors": "Das Formular enthält Fehler. Bitte beheben Sie diese vor dem Absenden.",
+    "optionalField": "(fakultativ)"
+  },
+  "common": {
+    "email": "E-Mail",
+    "password": "Passwort",
+    "passwordConfirm": "Bestätigen Sie Ihr Passwort",
+    "firstname": "Vorname",
+    "lastname": "Nachname",
+    "phone": "Telefon Nuber",
+    "jobTitle": "Job Titel",
+    "payMyself": "Mich selbst bezahlen",
+    "payByGroup": "Bezahlt von der Gruppe",
+    "motivation": "Motivation",
+    "selectGroup": "Wählen Sie Ihre Gruppe",
+    "group": "Gruppe",
+    "description": "Beschreibung",
+    "login": "Anmeldung",
+    "billingMode": "Zahlungsmethode"
+  },
+  "register": {
+    "motivationHint": "Bitte beschreiben Sie Ihre Gründe für die Teilnahme. Dies wird verwendet, um Ihre Bewerbung zu bestätigen oder abzulehnen.",
+    "nextSteps": "Nächste Schritte",
+    "acceptConditions": "Ich akzeptiere die Bedingungen und Konditionen",
+    "submit": "Anfrage für mein Konto senden",
+    "profile": "Profil",
+    "step1": "Sie erhalten eine Bestätigungs-E-Mail.",
+    "step2": "Sobald Ihre E-Mail bestätigt wurde, wird Ihre Anfrage zur Überprüfung an die Administratoren oder die für Ihr Abonnement zuständigen Gruppenleiter geschickt.",
+    "step3": "Sie erhalten eine E-Mail, sobald Ihr Konto bestätigt wurde."
+  }
+}
