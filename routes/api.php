@@ -15,7 +15,6 @@ use App\Http\Controllers\Auth\ForgotPasswordController;
 |
 */
 Route::post('/forgot-password', [ForgotPasswordController::class, 'sendResetLinkEmail']);
-
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
